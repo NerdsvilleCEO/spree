@@ -374,7 +374,6 @@ GEM
       actionpack (>= 3.0)
       activesupport (>= 3.0)
       sprockets (>= 2.8, < 4.0)
-    sqlite3 (1.3.10)
     state_machines (0.4.0)
     state_machines-activemodel (0.3.0)
       activemodel (~> 4.1)
@@ -443,7 +442,6 @@ DEPENDENCIES
   sass-rails (~> 5.0.0)
   simplecov
   spree!
-  sqlite3
   timecop
   tzinfo-data
   webmock (= 1.8.11)
